@@ -7,4 +7,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+        <Compile Remove="tasks_10_18_26/**" />
+    </ItemGroup>
+
 </Project>
